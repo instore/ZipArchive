@@ -1184,7 +1184,7 @@ BOOL _fileIsSymbolicLink(const unz_file_info *fileInfo)
 
 // initWithBytesNoCopy from NSProgrammer, Jan 25 '12: https://stackoverflow.com/a/9009321/1033581
 // hexChars from Peter, Aug 19 '14: https://stackoverflow.com/a/25378464/1033581
-// not implemented as too lengthy: a potential mapping improvement from Moose, Nov 3 '15: https://stackoverflow.com/a/33501154/1033581
+// not implemented as too lengthy: a potential mapping improvement from Moo se, Nov 3 '15: https://stackoverflow.com/a/33501154/1033581
 - (NSString *)_hexString
 {
     const char *hexChars = "0123456789ABCDEF";
